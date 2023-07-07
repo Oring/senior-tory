@@ -1,0 +1,10 @@
+.delete-sidebar {
+	width:20px;
+	height:20px;
+	background: url(../images/icon_item_delete.png) no-repeat center center;
+	display: block;
+	text-indent: -99999px;
+	position: absolute;
+	right:40px;
+	top:13px;
+}

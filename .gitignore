@@ -1,0 +1,5 @@
+plugins/
+uploads/
+upgrade/
+themes/*
+!themes/senior-tory/
